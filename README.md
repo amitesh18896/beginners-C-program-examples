@@ -1,39 +1,23 @@
 
-# Beginners C Program Examples
-## :octocat: Fork and :eight_pointed_black_star: star this repo
-Simple, short and sweet  beginners friendly C language programs 
-
-“That's the thing about people who think they hate computers. What they really hate is lousy programmers.” 
-― Larry Niven
-
-These program are written in codeblocks ide for windows. These programs are not very sophisticated as these are beginners friendly and have many bugs. Anyone who is new to c language can practice these examples. 
-
-- Only programs written in c language will be merged.
-- Beautify/Format your code before making a PR. Poorly stuctured code with inconsistent spacing and bad variable name will not be merged. 
-- Use this tool to beautify your code : https://codebeautify.org/c-formatter-beautifier
-- Make sure your program works after beautifying it.
-- #include< stdio.h > is wrong and you must remove whitespaces. #include<stdio.h> is correct.
-- Please check your spellings before making a PR
-- Comment code properly.
 
 ![alt text](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Screenshot.PNG)
 
 # List of programs
-- [Hello World!](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/HelloWorld.c)
-- [Area and circumference](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/AreaAndCircumference.c)
-- [Basic Arithmatic](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BasicArithmatic.c)
-- [Fahrenheit To Celcius](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/FahrenheitToCelciusConv.c)
-- [Lowercase To Uppercase](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/LowercaseToUppercase.c)
-- [Uppercase To Lowercase](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/UppercaseToLowercase.c)
-- [Simple Interest Calculator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SimpleInterestCalculator.c)
-- [Student Marks Percentage](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/StudentMarksPercentage.c)
-- [Swap Values Using Third Variable](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SwapValueUsingThirdVariable.c)
-- [Swap Value Without Using Third Variable](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SwapValueWithoutUsingThirdVariable.c)
-- [Relational Operators in C](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/RelationalOperators.c)
-- [Ternary Operator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/TernaryOperator.c)
-- [Leap Year Using Ternary Operator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/LeapYearTernaryOperator.c)
-- [Sizeof Operator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SizeofOperator.c)
-- [Find ASCII Value](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/FindAsciiValue.c)
+- [Hello World!]
+- [Area and circumference]
+- [Basic Arithmatic]
+- [Fahrenheit To Celcius]
+- [Lowercase To Uppercase]
+- [Uppercase To Lowercase]
+- [Simple Interest Calculator]
+- [Student Marks Percentage]
+- [Swap Values Using Third Variable]
+- [Swap Value Without Using Third Variable]
+- [Relational Operators in C]
+- [Ternary Operator]
+- [Leap Year Using Ternary Operator]
+- [Sizeof Operator]
+- [Find ASCII Value]
 - [Reverse Number](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/ReverseNumber.c)
 - [Reverse Number 2](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/ReverseNumber2.c)
 - [Bitwise Left Shift Operator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BitwiseLeftshiftOperator.c)
@@ -77,36 +61,32 @@ These program are written in codeblocks ide for windows. These programs are not 
 - [Temperature conversion](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/AllTempScalesConv.c)
 - [Alphabet triangle](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/alphabetTriangle.cpp)
 - [Armstrong Number](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/ArmstrongNumber.c)
-- [Background Thread Sorter](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BackgroundThreadSorter.c)
-- [Basic Game](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BasicGame.c)
-- [Celsius to Kelvin](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/CelciusToKelvinConv.c)
-- [Calculator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/combine_calculator.c)
-- [Common elements in two array](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/CommonElementsInTwoArrays.c)
-- [Decimal to base n conversion](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DecimalToBaseN.c)
-- [Two-way decimal to hexadecimal](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DecimalToHexadecimalViceVersa.c)
-- [Encrypt and Decrypt XOR](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/EncryptDecryptXOR.c)
-- [Fibonnaci Generation](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/FibonacciGeneration.c)
-- [Calculate remainder](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/FindRemainder.c)
-- [Check leap year](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/isInputLeapYear.c)
-- [Find largest number](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Largest.c)
-- [Check odd or even](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/oddandeven.c)
-- [Print pattern](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Pattern1.c)
-- [Polynomial linklist](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Polynomial_linklist.c)
-- [Print prime numbers](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Prime.c)
-- [Factorial of a number with recursion](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/RecursiveFactorial.c)
-- [Simple EMI Calculator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SimpleEMICalculator.c)
-- [Simple multiplication table](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SimpleMultiplicationTable.c)
-- [Square root](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SquareRoot.c)
-- [Stack implemenation of linklist](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Stack%20-%20Linked%20List.c)
-- [Swap integers without 3rd variable](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SwapIntegers.c)
-- [Swap value without third variable](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SwapValueWithoutUsingThirdVariable.c)
-- [Identify machine is big-endian or little-endian](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/endian.c)
-- [Perform Selection Sort](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SelectionSort.c)
-- [Calculate Factorial upto input of 5000](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/large_factorial.c)
-- [To check if a matrix is a sparse matrix or not](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SparseMatrix_017.c)
-- [To calculate the Least Common Multiple](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/lcm.c)
+- [Background Thread Sorter]
+- [Basic Game]
+- [Celsius to Kelvin]
+- [Calculator]
+- [Common elements in two array]
+- [Decimal to base n conversion]
+- [Two-way decimal to hexadecimal]
+- [Encrypt and Decrypt XOR]
+- [Fibonnaci Generation]
+- [Calculate remainder]
+- [Check leap year]
+- [Find largest number]
+- [Check odd or even]
+- [Print pattern]
+- [Polynomial linklist]
+- [Print prime numbers]
+- [Factorial of a number with recursion]
+- [Simple EMI Calculator]
+- [Simple multiplication table]
+- [Square root]
+- [Stack implemenation of linklist]
+- [Swap integers without 3rd variable]
+- [Swap value without third variable]
+- [Identify machine is big-endian or little-endian]
+- [Perform Selection Sort]
+- [Calculate Factorial upto input of 5000]
+- [To check if a matrix is a sparse matrix or not]
+- [To calculate the Least Common Multiple]
 
-# Contributing
-This is a personal learning project for me.
-
-Please feel free to fork this repo. Pull request to submit more programs.
