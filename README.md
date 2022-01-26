@@ -18,49 +18,49 @@
 - [Leap Year Using Ternary Operator]
 - [Sizeof Operator]
 - [Find ASCII Value]
-- [Reverse Number](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/ReverseNumber.c)
-- [Reverse Number 2](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/ReverseNumber2.c)
-- [Bitwise Left Shift Operator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BitwiseLeftshiftOperator.c)
-- [Bitwise Complement Operator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BitwiseComplementOperator.c)
-- [Bitwise AND Operator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BitwiseAndOperator.c)
-- [Bitwise Odd or Even](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BitwiseOddOrEven.c)
-- [Increment Operator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/IncrementOperator.c)
-- [Decrement Operator](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DecrementOperator.c)
-- [Nested If Leap Year](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/NestedIfLeapYear.c)
-- [Nested if Greatest Integer](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/NestedifGreatestInteger.c)
-- [Check Character Type](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/CheckCharacterType.c)
-- [Employee Grade](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/EmployeeGrade.c)
-- [Daily Wage Calc](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DailyWageCalc.c)
-- [Day Name Using Switch Case](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DayNameUsingSwitchCase.c)
-- [Vowel or Consonant](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/VowelorConsonant.c)
-- [Calculator using switch case](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/CalcUsingSwitchCase.c)
-- [Bubble Sort](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BubbleSort.c)
-- [Insertion Sort](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Insertionsort.c)
-- [Merge Sort](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Mergesort.c)
-- [Quick Sort](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Quicksort.c)
-- [Goto statement](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/GotoStatementEvenOrOdd.c)
-- [Mirror Number](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/MirrorNumber.c)
-- [Dice roll with Adjustable sides](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DiceRoll.c)
-- [Dynamic 2D Array Using One Pointer](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DynamicTwoDArrayUsingOnePointer.c)
-- [Dyanamic 2D Array using Array of Pointer](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DynamicTwoDArrayUsingArrayOfPointer.c)
-- [Digital Root of a Number](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DigitalRoot.c)
-- [Swap By Reference Vs Swap By Copy](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SwapByRefandCopy.c)
-- [Display Linux Environment Variables](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DisplayLinuxEnvirmentVariables.c)
-- [Factorial](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Factorial.c)
-- [Get String Length](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/StringLength.c)
-- [Decimal To Binary](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/DecimalToBinary.c)
-- [Haystack and Needle (SubString)](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/HaystackAndNeedle_SubString.c)
-- [Pointers in C](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Pointers.c)
-- [Binary Search](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/BinarySearch.c)
-- [Recursion](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Recursion.c)
-- [Segmentation Fault or Bus Error Demo](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/SegmentationFaultorBusErrorDemo.c)
-- [Structure](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/Structure.c)
-- [Swapping 2 Numbers Without a Third Variable or ^](https://github.com/geetanjaliaich/beginners-C-program-examples/blob/FactorialEratosthenes/SwapIntegersWithout3rdVariable(Arithmatic).c)
-- [Print 100 Prime numbers using Seive of Eratosthenes](https://github.com/geetanjaliaich/beginners-C-program-examples/blob/FactorialEratosthenes/PrimeByEratosthenes.c)
-- [Palindrome Number](https://github.com/geetanjaliaich/beginners-C-program-examples/blob/FactorialEratosthenes/PalindromeNumber.c)
-- [Temperature conversion](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/AllTempScalesConv.c)
-- [Alphabet triangle](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/alphabetTriangle.cpp)
-- [Armstrong Number](https://github.com/gouravthakur39/beginners-C-program-examples/blob/master/ArmstrongNumber.c)
+- [Reverse Number]
+- [Reverse Number 2]
+- [Bitwise Left Shift Operator]
+- [Bitwise Complement Operator]
+- [Bitwise AND Operator]
+- [Bitwise Odd or Even]
+- [Increment Operator]
+- [Decrement Operator]
+- [Nested If Leap Year]
+- [Nested if Greatest Integer]
+- [Check Character Type]
+- [Employee Grade]
+- [Daily Wage Calc]
+- [Day Name Using Switch Case]
+- [Vowel or Consonant]
+- [Calculator using switch case]
+- [Bubble Sort]
+- [Insertion Sort]
+- [Merge Sort]
+- [Quick Sort]
+- [Goto statement]
+- [Mirror Number]
+- [Dice roll with Adjustable sides]
+- [Dynamic 2D Array Using One Pointer]
+- [Dyanamic 2D Array using Array of Pointer]
+- [Digital Root of a Number]
+- [Swap By Reference Vs Swap By Copy]
+- [Display Linux Environment Variables]
+- [Factorial]
+- [Get String Length]
+- [Decimal To Binary]
+- [Haystack and Needle (SubString)]
+- [Pointers in C]
+- [Binary Search]
+- [Recursion]
+- [Segmentation Fault or Bus Error Demo]
+- [Structure]
+- [Swapping 2 Numbers Without a Third Variable or ^]
+- [Print 100 Prime numbers using Seive of Eratosthenes]
+- [Palindrome Number]
+- [Temperature conversion]
+- [Alphabet triangle]
+- [Armstrong Number]
 - [Background Thread Sorter]
 - [Basic Game]
 - [Celsius to Kelvin]
